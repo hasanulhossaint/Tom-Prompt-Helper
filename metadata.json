@@ -1,0 +1,5 @@
+{
+  "name": "Tom Prompt Helper",
+  "description": "An advanced tool to help users craft specific, high-quality prompts for AI models. Users provide a basic instruction, and the tool generates a refined prompt based on selected parameters like tone, style, and output format.",
+  "requestFramePermissions": ["microphone"]
+}
